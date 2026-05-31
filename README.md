@@ -15,7 +15,7 @@
 | **Written On** | May 28, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/endless-summer-love/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Endless Summer Love](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/endless-summer-love/) |
+| **Get License** | [Obtain a Music License for Endless Summer Love](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/endless-summer-love/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I still taste the summer on your skin
+> Tracing every place the sun has been
+> Catch my breath before you pull me close
+> You're the only season I want most
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
