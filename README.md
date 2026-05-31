@@ -15,7 +15,7 @@
 | **Written On** | May 28, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/endless-summer-love/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Endless Summer Love](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/endless-summer-love/) |
+| **Get License** | [License this song: Endless Summer Love](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/endless-summer-love/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `252298289ce4268d5db684a5fdc7c0b1a0e7e02fe81c3a03c039c1ee0ed17179` |
 | **Timestamp** | May 31, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
